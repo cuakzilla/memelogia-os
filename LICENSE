@@ -1,0 +1,74 @@
+MEMELOGÍA OS — LICENCIA DE SOFTWARE PROPIETARIO
+Copyright (c) 2026 A51 · cuakzilla. Todos los derechos reservados.
+
+TÉRMINOS Y CONDICIONES DE USO
+
+1. DEFINICIONES
+   "Software" se refiere a Memelogía OS, incluyendo su código fuente, archivos
+   HTML, CSS, JavaScript, documentación, y todos los archivos asociados.
+   "Licenciante" se refiere a A51 / cuakzilla.
+   "Licenciatario" se refiere a la persona o entidad que ha recibido una licencia
+   de uso de este Software de forma explícita y documentada.
+
+2. CONCESIÓN DE LICENCIA
+   Sujeto al pago de los honorarios acordados y al cumplimiento de estos términos,
+   el Licenciante otorga al Licenciatario una licencia limitada, no exclusiva, no
+   transferible y revocable para usar el Software únicamente para los propósitos
+   y en la forma expresamente autorizados en el contrato de licencia correspondiente.
+
+3. RESTRICCIONES
+   El Licenciatario NO puede:
+   a) Copiar, modificar, adaptar, traducir o crear obras derivadas del Software
+      sin autorización escrita previa del Licenciante.
+   b) Sublicenciar, vender, alquilar, prestar, transferir o distribuir el Software
+      o cualquier parte del mismo a terceros.
+   c) Realizar ingeniería inversa, descompilar o desensamblar el Software.
+   d) Eliminar o alterar cualquier aviso de propiedad intelectual del Software.
+   e) Usar el Software para crear un producto competidor o similar.
+   f) Usar el Software fuera del alcance de uso definido en el contrato.
+
+4. PROPIEDAD INTELECTUAL
+   El Software es y seguirá siendo propiedad exclusiva del Licenciante. Esta
+   licencia no transfiere al Licenciatario ningún derecho de propiedad intelectual
+   sobre el Software. Todas las mejoras, modificaciones o derivados realizados por
+   el Licenciante permanecen como propiedad del Licenciante.
+
+5. PROVEEDORES DE IA DE TERCEROS
+   El Software realiza llamadas a APIs de terceros (Anthropic, Google, xAI, OpenAI).
+   El uso de dichas APIs está sujeto a los términos de servicio de cada proveedor.
+   El Licenciatario es responsable de obtener y pagar sus propias claves de API
+   y de cumplir con los términos de cada proveedor.
+
+6. PRIVACIDAD Y DATOS
+   El Software procesa contenido (imágenes, texto, audio, video) a través de APIs
+   de terceros. El Licenciatario es responsable de obtener los consentimientos
+   necesarios para el contenido que analice y de cumplir con la legislación de
+   protección de datos aplicable en su jurisdicción.
+
+7. LIMITACIÓN DE RESPONSABILIDAD
+   EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍAS DE NINGÚN TIPO. EN NINGÚN
+   CASO EL LICENCIANTE SERÁ RESPONSABLE POR DAÑOS DIRECTOS, INDIRECTOS, INCIDENTALES,
+   ESPECIALES, CONSECUENTES O PUNITIVOS QUE RESULTEN DEL USO O LA IMPOSIBILIDAD DE
+   USO DEL SOFTWARE, AUN CUANDO SE HAYA ADVERTIDO DE LA POSIBILIDAD DE TALES DAÑOS.
+
+8. DESCARGO DE GARANTÍAS
+   El Licenciante no garantiza que el Software sea libre de errores, que funcione
+   de manera ininterrumpida, o que los análisis producidos sean precisos o completos.
+   Los resultados del sistema son herramientas de apoyo a la decisión humana,
+   no decisiones autónomas.
+
+9. TERMINACIÓN
+   Esta licencia termina automáticamente si el Licenciatario incumple cualquiera de
+   sus términos. Al terminar, el Licenciatario debe cesar todo uso del Software y
+   destruir todas las copias en su posesión.
+
+10. LEY APLICABLE
+    Este acuerdo se rige por las leyes de México (Distrito Federal / CDMX), sin
+    perjuicio de sus normas de conflicto de leyes. Cualquier disputa será resuelta
+    ante los tribunales competentes de la Ciudad de México.
+
+Para licencias comerciales, preguntas o autorizaciones especiales:
+contacto@cuakzilla.com
+
+---
+Memelogía OS v9.0 · 2026 · A51 / cuakzilla
